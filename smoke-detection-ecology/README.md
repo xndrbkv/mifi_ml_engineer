@@ -20,7 +20,7 @@
 | № | Изображение / Ссылка | Результат | Описание |
 | :--- | :--- | :--- | :--- |
 | 1 | [Промышленный дым (успешно)](https://raw.githubusercontent.com/xndrbkv/mifi_ml_engineer/main/smoke-detection-ecology/1.jpg) | ✅ Успешное определение | Модель корректно идентифицировала дымовые выбросы от промышленного объекта |
-| 2 | [Дым от костра (не обнаружен)](https://raw.githubusercontent.com/xndrbkv/mifi_ml_engineer/main/smoke-detection-ecology/2.jpg) | ❌ Ложное срабатывание | Дым от костра не был обнаружен - демонстрирует ограничения модели при работе с естественными источниками дыма небольшой интенсивности |
+| 2 | [Дым от костра (не обнаружен)](https://raw.githubusercontent.com/xndrbkv/mifi_ml_engineer/main/smoke-detection-ecology/2.jpg) | ❌ Не определен | Дым от костра не был обнаружен - демонстрирует ограничения модели при работе с естественными источниками дыма небольшой интенсивности |
 | 3 | [Промышленный дым (успешно)](https://raw.githubusercontent.com/xndrbkv/mifi_ml_engineer/main/smoke-detection-ecology/3.jpg) | ✅ Успешное определение | Чёткое обнаружение промышленного дыма в различных условиях |
 | 4 | [Засвет от солнца (ошибка)](https://raw.githubusercontent.com/xndrbkv/mifi_ml_engineer/main/smoke-detection-ecology/4.jpg) | ❌ Ошибка определения | Засвет от солнца был ошибочно принят за дым - показывает влияние сложных условий освещения на работу модели |
 
